@@ -30,3 +30,8 @@ Also skilled in parallel development to support quality-driven software delivery
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajitha9876&theme=tokyo-night)
+
+## 🏷 Badges
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-Expert-blue)
+![QA](https://img.shields.io/badge/QA-4+_Years-success)
+![HTML](https://img.shields.io/badge/HTML-Basic-orange)

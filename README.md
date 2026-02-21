@@ -35,3 +35,6 @@ Also skilled in parallel development to support quality-driven software delivery
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-Expert-blue)
 ![QA](https://img.shields.io/badge/QA-4+_Years-success)
 ![HTML](https://img.shields.io/badge/HTML-Basic-orange)
+
+![Followers](https://img.shields.io/github/followers/Rajitha9876?label=Followers&style=social)
+![Following](https://img.shields.io/badge/Following-23-orange)

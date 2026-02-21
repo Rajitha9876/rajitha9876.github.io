@@ -21,3 +21,12 @@ Also skilled in parallel development to support quality-driven software delivery
 ## 📫 Connect With Me
 - GitHub: https://github.com/yourusername  
 - LinkedIn: your-link-here
+- 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)

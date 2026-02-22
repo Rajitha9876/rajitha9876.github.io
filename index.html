@@ -5,15 +5,74 @@
   <title>Rajitha | QA Professional</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body { font-family: Arial, sans-serif; background: #f4f7fb; margin: 0; color: #333; }
-    .container { width: 90%; max-width: 1000px; margin: auto; padding: 20px; }
-    h1, h2 { color: #2575fc; }
-    ul { line-height: 1.8; }
-    .banner img { width: 100%; border-radius: 10px; }
-    .section { background: white; padding: 20px; margin-top: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    a { color: #2575fc; text-decoration: none; font-weight: bold; }
-    .stats img { width: 100%; margin-top: 10px; }
-    .badges img { margin: 5px; }
+    /* Background with tech pattern */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      color: #f0f0f0;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      background-size: cover;
+      position: relative;
+    }
+
+    /* Optional subtle tech overlay pattern */
+    body::before {
+      content: "";
+      position: fixed;
+      top:0; left:0;
+      width:100%; height:100%;
+      background-image: url('https://www.transparenttextures.com/patterns/connected.png');
+      opacity: 0.1;
+      z-index:0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      width: 90%;
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    h1, h2 {
+      color: #00ffea;
+    }
+
+    ul {
+      line-height: 1.8;
+    }
+
+    .banner img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+    }
+
+    .section {
+      background: rgba(0,0,0,0.7);
+      padding: 20px;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    }
+
+    a {
+      color: #00ffea;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .stats img {
+      width: 100%;
+      margin-top: 10px;
+      border-radius: 10px;
+    }
+
+    .badges img {
+      margin: 5px;
+    }
+
     @media (max-width: 768px) { h1 { font-size: 24px; } }
   </style>
 </head>

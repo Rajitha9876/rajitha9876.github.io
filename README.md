@@ -1,5 +1,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Rajitha%20-%20QA%20Professional&fontSize=32&fontColor=ffffff)
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=&fontSize=0)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=Rajitha+-+QA+Professional;Manual+Tester+with+4%2B+Years+Experience;Quality-Driven+Software+Testing+Enthusiast;Learning+API+%26+Automation+Testing)
+
 Hi, I'm Rajitha — Manual Tester | QA Professional | Lifelong Learner | Quality-Driven Software Testing Enthusiast
 
 ## 👩‍💻 About Me
@@ -31,7 +35,6 @@ SQL (basic)
 
 **🧪 Tools I Use**
 - 🔹JIRA
-- 🔹TestRail
 - 🔹Postman
 - 🔹Git & GitHub
 - 🔹Chrome DevTools

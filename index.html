@@ -5,17 +5,24 @@
   <title>Rajitha | QA Professional</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* Background with tech pattern */
+    /* Animated tech gradient background */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       color: #f0f0f0;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      background-size: cover;
+      background: linear-gradient(270deg, #0f2027, #203a43, #2c5364);
+      background-size: 600% 600%;
+      animation: gradientAnimation 15s ease infinite;
       position: relative;
     }
 
-    /* Optional subtle tech overlay pattern */
+    @keyframes gradientAnimation {
+      0%{background-position:0% 50%;}
+      50%{background-position:100% 50%;}
+      100%{background-position:0% 50%;}
+    }
+
+    /* Subtle tech overlay pattern */
     body::before {
       content: "";
       position: fixed;
@@ -55,6 +62,11 @@
       margin-top: 20px;
       border-radius: 10px;
       box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+      transition: transform 0.3s ease;
+    }
+
+    .section:hover {
+      transform: translateY(-5px);
     }
 
     a {
@@ -74,6 +86,26 @@
     }
 
     @media (max-width: 768px) { h1 { font-size: 24px; } }
+
+    /* Typing animation */
+    .typing {
+      font-weight: bold;
+      color: #00ffea;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 4px solid #00ffea;
+      animation: typing 3.5s steps(40, end), blink 0.75s step-end infinite;
+      font-size: 28px;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent; }
+    }
   </style>
 </head>
 <body>
@@ -86,8 +118,8 @@
   <div class="container">
 
     <div class="section">
-      <h1>Hi, I'm Rajitha</h1>
-      <p>Manual Tester | QA Professional | Lifelong Learner | Quality-Driven Software Testing Enthusiast</p>
+      <h1 class="typing">Hi, I'm Rajitha — QA Professional</h1>
+      <p>Manual Tester | Lifelong Learner | Quality-Driven Software Testing Enthusiast</p>
     </div>
 
     <div class="section">

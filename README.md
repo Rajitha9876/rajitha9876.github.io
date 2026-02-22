@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Rajitha%20-%20QA%20Professional&fontSize=32&fontColor=ffffff)
 Hi, I'm Rajitha — Manual Tester | QA Professional | Lifelong Learner | Quality-Driven Software Testing Enthusiast
 
 ## 👩‍💻 About Me
